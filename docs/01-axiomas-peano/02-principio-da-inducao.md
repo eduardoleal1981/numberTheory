@@ -13,7 +13,7 @@
             - Pode-se escolher 0 ou 1 para este elemento, a depender da descrição do conjunto dos números naturais analisado
         - Você AFIRMA que o que se está provando tem valor verdadeiro para um número qualquer k.
         - Você AFIRMA que o que se está provando tem valor verdadeiro para k + 1.
-        - Para comprovar as afirmações anteriores, você apenas precisa encontrar números que mostrem matematicamente a validade da setença.
+        - Para afirmar as afirmações anteriores, você apenas precisa encontrar números que mostrem matematicamente a validade da setença. Você não provou nada ainda, pois não se prova nada com exemplos.
     - Depois disso, escreva o Argumento da Hipotese que será analisada.
         - Hipótese condicional:
             - Se a sentença é verdadeira para K, também é verdadeira para k + 1.
