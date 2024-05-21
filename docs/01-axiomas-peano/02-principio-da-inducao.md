@@ -14,15 +14,17 @@
         - Você AFIRMA que o que se está provando tem valor verdadeiro para um número qualquer k.
         - Você AFIRMA que o que se está provando tem valor verdadeiro para k + 1.
         - Para afirmar as afirmações anteriores, você apenas precisa encontrar números que mostrem matematicamente a validade da setença. Você não provou nada ainda, pois não se prova nada com exemplos / dados triviais.
-    - Depois disso, escreva o Argumento da Hipotese que será analisada.
+    - Escreva o primeiro Argumento de Hipotese:
         - Hipótese condicional:
             - Se a sentença é verdadeira para K, também é verdadeira para k + 1.
             - Antecedente: Sentença considerando k
             - Consequente: Sentença considerando K + 1
-    - Escreva a tese inicial do estudo.
-        - A sentença é sempre verdadeira para K + 1.
-        - Indique que a tese é verdadeira com um exemplo de número matemático.
-    - Até aqui não se provou nada, apenas se apresentou exemplos que confirmam ideias.
-    - Agora escreva a extrapolação desta ideia para todo o conjunto dos números naturais.
-        - Tese: para todo número natural, a setença analisa é verdadeira.
-        - Indique que esta última tese é verdadeira por causa do princípio da indução, conforme passos anteriores que mostram a aderência da análise à tipologogia do princípio da indução.
+    - Escreva o segundo Argumento de Hipotese, com o quantificador:
+        - Hipótese condicional:
+            - Para todo e qualquer k pertencente ao conjunto N, se a sentença é verdadeira para K, também é verdadeira para k + 1.
+            - Quantificador: para todo e qualquer k
+            - Antecedente: Sentença considerando k
+            - Consequente: Sentença considerando K + 1
+    - Afirme a veracidade dos antecedentes e conseguentes com exemplos, dados triviais.
+    - Até aqui não se provou nada, apenas se apresentou exemplos que confirmam ideias!
+    - Usando o princípio da indução matemática, afirme, que as duas hipóteses são verdadeiras, conforme passos anteriores que mostram a aderência da análise à tipologogia do princípio da indução.
