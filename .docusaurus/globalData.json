@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "axiomas-peano/zero-e-um-numero-natural",
+          "docs": [
+            {
+              "id": "axiomas-peano/principio-da-inducao",
+              "path": "/docs/axiomas-peano/principio-da-inducao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "axiomas-peano/zero-e-um-numero-natural",
+              "path": "/docs/axiomas-peano/zero-e-um-numero-natural",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/axiomas-de-peano",
+              "path": "/docs/category/axiomas-de-peano",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/axiomas-de-peano",
+                "label": "Axiomas de Peano"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+# Princípio da Indução
+- O princípio da indução matemática diz que se pode concluir que uma hipótese é verdaderia devido uma lógica de indução. 
+- A indução reside no fato de:
+    - se considerar a existência dos elementos 0, k e k+1. 
+    - se considerar uma certa sentença como verdadeira para 0.
+    - Se considerar hipoteticamente que esta sentença também é verdadeira para k.
+    - Se considerar hipoteticamente que esta sentença também é verdadeira para k+1.
+    - Se testar algebricamente que a setença é válida para k e k+1.
+    - Se extrapolar a análise afirmando a sentença é válida para todos os elementos do conjunto dos números naturais devido lógica do pensamento matemátido da indução.
+- Prova em três etapas, com obrigação de se indicar onde se considerou a lógica da indução.
+    - Identificação da Base da indução:
+        - Você AFIRMA que o que se está provando tem valor verdadeiro para o primeiro número natural de base.
+            - Pode-se escolher 0 ou 1 para este elemento, a depender da descrição do conjunto dos números naturais analisado
+        - Você AFIRMA que o que se está provando tem valor verdadeiro para um número qualquer k.
+        - Você AFIRMA que o que se está provando tem valor verdadeiro para k + 1.
+        - Para comprovar as afirmações anteriores, você apenas precisa encontrar números que mostrem matematicamente a validade da setença.
+    - Depois disso, escreva o Argumento da Hipotese que será analisada.
+        - Hipótese condicional:
+            - Se a sentença é verdadeira para K, também é verdadeira para k + 1.
+            - Antecedente: Sentença considerando k
+            - Consequente: Sentença considerando K + 1
+    - Escreva a tese inicial do estudo.
+        - A sentença é sempre verdadeira para K + 1.
+        - Indique que a tese é verdadeira com um exemplo de número matemático.
+    - Até aqui não se provou nada, apenas se apresentou exemplos que confirmam ideias.
+    - Agora escreva a extrapolação desta ideia para todo o conjunto dos números naturais.
+        - Tese: para todo número natural, a setença analisa é verdadeira.
+        - Indique que esta última tese é verdadeira por causa do princípio da indução, conforme passos anteriores que mostram a aderência da análise à tipologogia do princípio da indução.

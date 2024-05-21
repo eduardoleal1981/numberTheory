@@ -1,0 +1,16 @@
+{
+  "id": "zero-como-numero-natural",
+  "title": "Intro",
+  "description": "",
+  "source": "@site/docs/zero-como-numero-natural.md",
+  "sourceDirName": ".",
+  "slug": "/zero-como-numero-natural",
+  "permalink": "/docs/zero-como-numero-natural",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/zero-como-numero-natural.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar"
+}
