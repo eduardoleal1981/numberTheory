@@ -56,3 +56,5 @@
 
 ## Definição de Igualdade
 - Sejam X e Y dois conjuntos com o mesmo universo. Dizemos que X é igual a Y caso $\mathrm X \subset Y$ e $\mathrm Y \subset X$. Neste caso escrevemos $\mathrm X = Y$.
+- X é igual a Y se e somente se estes conjuntos possuem os mesmos elementos.
+- Por definição, para demonstrar que um conjunto X é igual a um conjunto Y, devemos verificar duas inclusões: $\mathrm X \subset Y$ e $\mathrm Y \subset X$.
