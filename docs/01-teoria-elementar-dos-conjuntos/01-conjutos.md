@@ -73,9 +73,21 @@
     - Planejamento terminado.
 
 ## Definição da Intersecção
-- Sejam X e Y conjuntos definidos em um mesmo universo.
+- Sejam X e Y conjuntos definidos em um mesmo universo U.
 - Definimos A intersecção de X e Y como o conjunto $\mathrm X\ \cap Y\ =\ \\{x \in U\ |\ x \in X\ e\ x \in Y \\}$
 
 ## Definição da Reunião
-- Sejam X e Y conjuntos definidos em um mesmo universo.
+- Sejam:
+    - X e Y conjuntos definidos em um mesmo universo U.
 - Definimos A reunição de X e Y como o conjunto $\mathrm X\ \cup Y\ =\ \\{x \in U\ |\ x \in X\ ou\ x \in Y \\}$
+
+## Definição de Complementar de um conjunto em relação a outro conjunto
+- Sejam:
+    - X e Y conjuntos definidos em um mesmo universo U.
+    - $\mathrm X \subset Y$
+- Definimos o complementar de X em relação a Y como o conjunto $\mathrm X\ \\ Y\ =\ \\{x \in U\ |\ x \in Y\ e\ x \not\in X \\}$
+
+## Definição de Complementar de um conjunto
+- Sejam:
+    - X um conjuntos definido em um universo U.
+- Definimos o complementar de X como o conjunto $\mathrm X^c =\ \\{x \in U\ |\ x \not\in X \\}$
