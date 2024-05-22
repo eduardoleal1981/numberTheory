@@ -37,7 +37,7 @@
     - sendo:
         - x um objeto,
         - $\mathbb R$ o conjunto Universo
-        - e P(x) uma propriedade sobre x;  
+        - e $\mathrm P\(x\)$ uma propriedade sobre $\mathrm x$;  
     são válidas as afirmações:
-1. Se x satisfaz a propriedade $\mathrm P\(x\)$, isto é, se $\mathrm P\(x\)$ é uma proposição verdadeira, escrevemos $\mathrm x\ \in X$ e dizemos que x pertence a X. 
-2. Se x não satisfaz a propriedade $\mathrm P\(x\)$, isto é, se $\mathrm P\(x\)$ é uma proposição falsa, escrevemos $\mathrm x\ \notin X$ e dizemos que x não pertence a X.
+1. Se $\mathrm x$ satisfaz a propriedade $\mathrm P\(x\)$, isto é, se $\mathrm P\(x\)$ é uma proposição verdadeira, escrevemos $\mathrm x\ \in X$ e dizemos que x pertence a X. 
+2. Se $\mathrm x$ não satisfaz a propriedade $\mathrm P\(x\)$, isto é, se $\mathrm P\(x\)$ é uma proposição falsa, escrevemos $\mathrm x\ \notin X$ e dizemos que x não pertence a X.
