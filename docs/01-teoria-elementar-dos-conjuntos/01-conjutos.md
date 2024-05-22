@@ -34,9 +34,10 @@
         ```  
 ## Definição Ingênua de Conjunto
 - Seja $\mathrm X\ =\ \\{x\ \in \mathbb R\ \mathrm |\ P\(x\)\ \\}$ um conjunto,
-    - x um objeto,
-    - $\mathbb R$ o conjunto Universo
-    - P(x) uma propriedade sobre x  
+    - sendo:
+        - x um objeto,
+        - $\mathbb R$ o conjunto Universo
+        - e P(x) uma propriedade sobre x;  
     são válidas as afirmações:
 1. Se x satisfaz a propriedade P(x), isto é, se P(x) é uma proposição verdadeira, escrevemos $x\ \in X$ e dizemos que x pertence a X. 
 2. Se x não satisfaz a propriedade P(x), isto é, se P(x) é uma proposição falsa, escrevemos $x\ \notin X$ e dizemos que x não pertence a X.
