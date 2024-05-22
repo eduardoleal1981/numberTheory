@@ -21,14 +21,14 @@
         - $X = \\{ 1, 2, 3, ..., 6 \\}$  
         - Python code:  
         ```python
-        Y = set(range(1,7))
+        X = set(range(1,7))
         ```
     - Indicação de regras de pertencimento para seus elementos:
-        - $X = \\{ x : x\ é\ um\ inteiro\ positivo\ não\ nulo\ menor\ que\ 7 \\}$
+        - $X = \\{ x : \ é\ um\ inteiro\ positivo\ não\ nulo\ menor\ que\ 7 \\}$
         - $X = \\{ x | x\ é\ um\ inteiro\ positivo\ não\ nulo\ menor\ que\ 7 \\}$  
         - Python code:  
         ```python
-        Y = {y for y in range(1,7)} # Using set comprehension to create a new set
-        Y = {y for y in range(1,7) if y < 7} # Using set comprehension to create a new set
-        Y = {y + 0 for y in range(1,7) if y < 7} # Using set comprehension to create a new set
+        X = {element for element in range(1,7)} # Using set comprehension to create a new set
+        X = {element for element in range(1,7) if element < 7} # Using set comprehension to create a new set
+        X = {element + 0 for element in range(1,7) if element < 7} # Using set comprehension to create a new set
         ```
