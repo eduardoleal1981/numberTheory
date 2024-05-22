@@ -10,7 +10,7 @@
     - $\mathbb R$
 - Números complexos:
     - $\mathbb C$
-- Definição de conjuntos por:
+- Descrição de conjuntos por:
     - Listagem de elementos: 
         - $X = \\{ 1, 2, 3, 4, 5, 6 \\}$  
         - Python code:  
