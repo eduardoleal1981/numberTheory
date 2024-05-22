@@ -1,19 +1,19 @@
 # Teoria Elementar dos Conjuntos
 ## Conjuntos
 
-- Números naturais: 
+- Números naturais:  
 $$ N $$  
 
-- Números inteiros:
+- Números inteiros:  
 $$ Z $$  
 
-- Números racionais:
+- Números racionais:  
 $$ Q $$  
 
-- Números reais:
+- Números reais:  
 $$ R $$  
 
-- Números complexos:
+- Números complexos:  
 $$ C $$  
 
 - Definição de conjuntos por:
