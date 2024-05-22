@@ -43,6 +43,6 @@
 2. Se $\mathrm x$ não satisfaz a propriedade $\mathrm P\(x\)$, isto é, se $\mathrm P\(x\)$ é uma proposição falsa, escrevemos $\mathrm x\ \notin X$ e dizemos que x não pertence a X.
 
 ### Exemplo de descrição de conjunto:
-- $\mathrm X\ =\ \\{x\ \in \mathbb R\ \mathrm |\ xˆ2\ -\ 2x\ -\ 3\ =\ 0 \\}$
+- $\mathrm X\ =\ \\{x\ \in \mathbb R\ \mathrm |\ x^2\ -\ 2x\ -\ 3\ =\ 0 \\}$
 - Quais elementos forma o conjunto X? 
 
