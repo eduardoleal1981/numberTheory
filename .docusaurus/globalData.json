@@ -8,11 +8,21 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "axiomas-peano/zero-e-um-numero-natural",
+          "mainDocId": "teoria-elementar-dos-conjuntos/conjutos",
           "docs": [
+            {
+              "id": "axiomas-peano/pricipio-do-sucessor",
+              "path": "/docs/axiomas-peano/pricipio-do-sucessor",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "axiomas-peano/principio-da-inducao",
               "path": "/docs/axiomas-peano/principio-da-inducao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "axiomas-peano/principio-da-nao-trivialidade",
+              "path": "/docs/axiomas-peano/principio-da-nao-trivialidade",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -26,6 +36,36 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "teoria-elementar-dos-conjuntos/conjutos",
+              "path": "/docs/teoria-elementar-dos-conjuntos/conjutos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teoria-elementar-dos-conjuntos/funcoes",
+              "path": "/docs/teoria-elementar-dos-conjuntos/funcoes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teoria-elementar-dos-conjuntos/relacoes-binarias",
+              "path": "/docs/teoria-elementar-dos-conjuntos/relacoes-binarias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teoria-elementar-dos-conjuntos/relacoes-de-equivalencia",
+              "path": "/docs/teoria-elementar-dos-conjuntos/relacoes-de-equivalencia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teoria-elementar-dos-conjuntos/relacoes-de-ordem",
+              "path": "/docs/teoria-elementar-dos-conjuntos/relacoes-de-ordem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/teoria-elementar-dos-conjuntos",
+              "path": "/docs/category/teoria-elementar-dos-conjuntos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/axiomas-de-peano",
               "path": "/docs/category/axiomas-de-peano",
               "sidebar": "tutorialSidebar"
@@ -35,8 +75,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/category/axiomas-de-peano",
-                "label": "Axiomas de Peano"
+                "path": "/docs/category/teoria-elementar-dos-conjuntos",
+                "label": "Teoria Elementar dos Conjuntos"
               }
             }
           }

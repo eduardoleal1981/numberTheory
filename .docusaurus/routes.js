@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '466'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', 'e21'),
     exact: true
@@ -99,25 +64,37 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '94b'),
+    component: ComponentCreator('/docs', 'bca'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f59'),
+        component: ComponentCreator('/docs', 'b0e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0ca'),
+            component: ComponentCreator('/docs', '086'),
             routes: [
               {
+                path: '/docs/axiomas-peano/pricipio-do-sucessor',
+                component: ComponentCreator('/docs/axiomas-peano/pricipio-do-sucessor', '1cd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/axiomas-peano/principio-da-inducao',
-                component: ComponentCreator('/docs/axiomas-peano/principio-da-inducao', '77f'),
+                component: ComponentCreator('/docs/axiomas-peano/principio-da-inducao', '8f3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/axiomas-peano/principio-da-nao-trivialidade',
+                component: ComponentCreator('/docs/axiomas-peano/principio-da-nao-trivialidade', 'cca'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/axiomas-peano/zero-e-um-numero-natural',
-                component: ComponentCreator('/docs/axiomas-peano/zero-e-um-numero-natural', '834'),
+                component: ComponentCreator('/docs/axiomas-peano/zero-e-um-numero-natural', 'de5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -128,8 +105,44 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/category/teoria-elementar-dos-conjuntos',
+                component: ComponentCreator('/docs/category/teoria-elementar-dos-conjuntos', '96d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '61d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teoria-elementar-dos-conjuntos/conjutos',
+                component: ComponentCreator('/docs/teoria-elementar-dos-conjuntos/conjutos', 'c2a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teoria-elementar-dos-conjuntos/funcoes',
+                component: ComponentCreator('/docs/teoria-elementar-dos-conjuntos/funcoes', '1f1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teoria-elementar-dos-conjuntos/relacoes-binarias',
+                component: ComponentCreator('/docs/teoria-elementar-dos-conjuntos/relacoes-binarias', '437'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teoria-elementar-dos-conjuntos/relacoes-de-equivalencia',
+                component: ComponentCreator('/docs/teoria-elementar-dos-conjuntos/relacoes-de-equivalencia', '072'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teoria-elementar-dos-conjuntos/relacoes-de-ordem',
+                component: ComponentCreator('/docs/teoria-elementar-dos-conjuntos/relacoes-de-ordem', '4d9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

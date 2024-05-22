@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Teoria dos Números",
-  "description": "",
+  "description": "Onde parei?",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Princípio da Indução",
-    "permalink": "/docs/axiomas-peano/principio-da-inducao"
+    "title": "Princípio da Não Trivialidade",
+    "permalink": "/docs/axiomas-peano/principio-da-nao-trivialidade"
   }
 }

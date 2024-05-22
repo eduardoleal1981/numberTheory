@@ -1,0 +1,25 @@
+{
+  "id": "axiomas-peano/principio-da-inducao",
+  "title": "Princípio da Indução",
+  "description": "- O princípio da indução matemática diz que se pode concluir que uma hipótese é verdaderia devido uma lógica de indução.",
+  "source": "@site/docs/99-axiomas-peano/02-principio-da-inducao.md",
+  "sourceDirName": "99-axiomas-peano",
+  "slug": "/axiomas-peano/principio-da-inducao",
+  "permalink": "/docs/axiomas-peano/principio-da-inducao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/99-axiomas-peano/02-principio-da-inducao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Zero é um número natural",
+    "permalink": "/docs/axiomas-peano/zero-e-um-numero-natural"
+  },
+  "next": {
+    "title": "Princípio do sucessor",
+    "permalink": "/docs/axiomas-peano/pricipio-do-sucessor"
+  }
+}

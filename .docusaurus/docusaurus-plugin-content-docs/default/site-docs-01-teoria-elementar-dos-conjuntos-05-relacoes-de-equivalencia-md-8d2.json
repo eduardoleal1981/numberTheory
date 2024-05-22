@@ -1,0 +1,25 @@
+{
+  "id": "teoria-elementar-dos-conjuntos/relacoes-de-equivalencia",
+  "title": "Teoria Elementar dos Conjuntos",
+  "description": "Relações de Equivalência",
+  "source": "@site/docs/01-teoria-elementar-dos-conjuntos/05-relacoes-de-equivalencia.md",
+  "sourceDirName": "01-teoria-elementar-dos-conjuntos",
+  "slug": "/teoria-elementar-dos-conjuntos/relacoes-de-equivalencia",
+  "permalink": "/docs/teoria-elementar-dos-conjuntos/relacoes-de-equivalencia",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-teoria-elementar-dos-conjuntos/05-relacoes-de-equivalencia.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teoria Elementar dos Conjuntos",
+    "permalink": "/docs/teoria-elementar-dos-conjuntos/relacoes-de-ordem"
+  },
+  "next": {
+    "title": "Axiomas de Peano",
+    "permalink": "/docs/category/axiomas-de-peano"
+  }
+}

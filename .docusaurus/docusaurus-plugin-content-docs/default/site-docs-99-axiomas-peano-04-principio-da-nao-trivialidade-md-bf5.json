@@ -1,0 +1,25 @@
+{
+  "id": "axiomas-peano/principio-da-nao-trivialidade",
+  "title": "Princípio da Não Trivialidade",
+  "description": "-",
+  "source": "@site/docs/99-axiomas-peano/04-principio-da-nao-trivialidade.md",
+  "sourceDirName": "99-axiomas-peano",
+  "slug": "/axiomas-peano/principio-da-nao-trivialidade",
+  "permalink": "/docs/axiomas-peano/principio-da-nao-trivialidade",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/99-axiomas-peano/04-principio-da-nao-trivialidade.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Princípio do sucessor",
+    "permalink": "/docs/axiomas-peano/pricipio-do-sucessor"
+  },
+  "next": {
+    "title": "Teoria dos Números",
+    "permalink": "/docs/intro"
+  }
+}

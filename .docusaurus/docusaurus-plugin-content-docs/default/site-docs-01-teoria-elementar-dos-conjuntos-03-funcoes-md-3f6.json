@@ -1,0 +1,25 @@
+{
+  "id": "teoria-elementar-dos-conjuntos/funcoes",
+  "title": "Teoria Elementar dos Conjuntos",
+  "description": "Funções",
+  "source": "@site/docs/01-teoria-elementar-dos-conjuntos/03-funcoes.md",
+  "sourceDirName": "01-teoria-elementar-dos-conjuntos",
+  "slug": "/teoria-elementar-dos-conjuntos/funcoes",
+  "permalink": "/docs/teoria-elementar-dos-conjuntos/funcoes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-teoria-elementar-dos-conjuntos/03-funcoes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teoria Elementar dos Conjuntos",
+    "permalink": "/docs/teoria-elementar-dos-conjuntos/relacoes-binarias"
+  },
+  "next": {
+    "title": "Teoria Elementar dos Conjuntos",
+    "permalink": "/docs/teoria-elementar-dos-conjuntos/relacoes-de-ordem"
+  }
+}

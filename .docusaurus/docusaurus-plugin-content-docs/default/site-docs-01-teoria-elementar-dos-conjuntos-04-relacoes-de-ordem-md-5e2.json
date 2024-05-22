@@ -1,0 +1,25 @@
+{
+  "id": "teoria-elementar-dos-conjuntos/relacoes-de-ordem",
+  "title": "Teoria Elementar dos Conjuntos",
+  "description": "Relações de Ordem",
+  "source": "@site/docs/01-teoria-elementar-dos-conjuntos/04-relacoes-de-ordem.md",
+  "sourceDirName": "01-teoria-elementar-dos-conjuntos",
+  "slug": "/teoria-elementar-dos-conjuntos/relacoes-de-ordem",
+  "permalink": "/docs/teoria-elementar-dos-conjuntos/relacoes-de-ordem",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-teoria-elementar-dos-conjuntos/04-relacoes-de-ordem.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teoria Elementar dos Conjuntos",
+    "permalink": "/docs/teoria-elementar-dos-conjuntos/funcoes"
+  },
+  "next": {
+    "title": "Teoria Elementar dos Conjuntos",
+    "permalink": "/docs/teoria-elementar-dos-conjuntos/relacoes-de-equivalencia"
+  }
+}
