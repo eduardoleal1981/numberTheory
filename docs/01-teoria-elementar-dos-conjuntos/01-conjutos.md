@@ -71,3 +71,7 @@
         - Para verificar cada relação de inclusão, por sua vez, devemos verificar a relação de pertencimento de cada elemento do conjunto que está supostamente contido, no conjunto que supostamente deve conter o outro conjunto.
         - Para o conjunto X, usaremos Bhaskara para, a partir da regra de formação do conjunto, identificar os elementos deste conjunto.
     - Planejamento terminado.
+
+## Definição da Intersecção
+- Sejam X e Y conjuntos definidos em um mesmo universo.
+- Definimos A intersecção de X e Y como o conjunto $\mathrm X\ \cap Y\ =\ \\{x \in U\ |\ x \in X e\ x \in Y \\}$
