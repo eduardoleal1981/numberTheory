@@ -45,6 +45,7 @@
 ### Exemplo de descrição de conjunto:
 - $\mathrm X\ =\ \\{x\ \in \mathbb R\ \mathrm |\ x^2\ -\ 2x\ -\ 3\ =\ 0 \\}$
 - Quais elementos forma o conjunto X? 
-$$\mathrm x^2\ -\ 2x\ -\ 3\ =\ 0$$  
-Devido fórmula de Baschara:  $\mathrm x\ =\ \frac{-\ b\ \pm \sqrt[2]{b^2 - 4 a c}}{2\ a}$
+- Avalio a propriedade: $\mathrm x^2\ -\ 2x\ -\ 3\ =\ 0$  
+- Devido fórmula de Baschara:  $\mathrm x\ =\ \frac{-\ b\ \pm \sqrt[2]{b^2 - 4 a c}}{2\ a}$, os valores possíveis de x são -1 e 3.  
+- Logo, $\mathrm X\ =\ \\{-1, 3\\}$.  [Q.E.D]
 
