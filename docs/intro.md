@@ -4,8 +4,8 @@
     - Em particular, ela lida com cálculos numéricos usando as operações aritméticas de adição, subtração, multiplicação e divisão.
 - https://profmat-sbm.org.br/ma-14/
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are:  
-$$ x = {-b \over 2a} $$
+**The Cauchy-Schwarz Inequality**
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 - Tópicos do estudo:
     - Tópicos Gerais:
