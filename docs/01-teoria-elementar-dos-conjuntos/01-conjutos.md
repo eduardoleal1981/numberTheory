@@ -17,7 +17,7 @@
         X = {1, 2, 3, 4, 5, 6}
         ```
     - Listagem de elementos com acréscimo de reticências para omitir sequência óbvia: 
-        - $X = {1, 2, 3}.union(set(4:7))$  
+        - $X = {1, 2, 3, ..., 6}$  
         ```python title="Python code ..."
         X = {1, 2, 3}
         Y = set(range(4,7))
