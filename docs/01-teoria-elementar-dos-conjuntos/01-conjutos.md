@@ -1,7 +1,7 @@
 # Teoria Elementar dos Conjuntos
 ## Conjuntos
 - Números naturais: 
-    - $\cal(N)$
+    - $\calN$
 - Números inteiros:
     - $Z$
 - Números racionais:
