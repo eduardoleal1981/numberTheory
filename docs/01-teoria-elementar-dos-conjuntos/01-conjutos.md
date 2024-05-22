@@ -49,3 +49,6 @@
 - Devido fórmula de Bhaskara:  $\mathrm x\ =\ \frac{-\ b\ \pm \sqrt[2]{b^2 - 4 a c}}{2\ a}$, os valores possíveis de x são -1 e 3.  
 - Logo, $\mathrm X\ =\ \\{-1,\ 3\\}$.  [Q.E.D] quod erat demonstrandum
 
+## Definição de Inclusão
+- Sejam X e Y conjuntos. 
+- Dizemos que X está contido em Y e escrevemos $\mathrm X \subset Y$, se todo elemento de X é um elemento de Y. Caso X não esteja contido em Y, escrevemos $\mathrm X \not\subset Y$.
