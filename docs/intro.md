@@ -1,4 +1,8 @@
 # Teoria dos Números
+
+## Onde parei?
+- Página 15. Relações Binárias.
+
 - Aritmética
     - Ramo fundamental da matemática que estuda números e suas operações.
     - Em particular, ela lida com cálculos numéricos usando as operações aritméticas de adição, subtração, multiplicação e divisão.
@@ -7,8 +11,6 @@ https://www.math-linux.com/latex/faq/latex-faq/article/latex-symbol-belongs-to
 https://docs.mathjax.org/en/latest/input/tex/extensions/textmacros.html
 https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 
-**The Cauchy-Schwarz Inequality**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 - Tópicos do estudo:
     - Tópicos Gerais:
