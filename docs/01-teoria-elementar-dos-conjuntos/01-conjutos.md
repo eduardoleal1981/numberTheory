@@ -75,3 +75,7 @@
 ## Definição da Intersecção
 - Sejam X e Y conjuntos definidos em um mesmo universo.
 - Definimos A intersecção de X e Y como o conjunto $\mathrm X\ \cap Y\ =\ \\{x \in U\ |\ x \in X\ e\ x \in Y \\}$
+
+## Definição da Reunião
+- Sejam X e Y conjuntos definidos em um mesmo universo.
+- Definimos A reunição de X e Y como o conjunto $\mathrm X\ \cup Y\ =\ \\{x \in U\ |\ x \in X\ ou\ x \in Y \\}$
