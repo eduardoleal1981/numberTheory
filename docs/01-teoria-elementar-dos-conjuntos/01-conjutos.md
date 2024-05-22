@@ -85,7 +85,8 @@
 - Sejam:
     - X e Y conjuntos definidos em um mesmo universo U.
     - $\mathrm X \subset Y$
-- Definimos o complementar de X em relação a Y como o conjunto $\mathrm X\ \setminus Y\ =\ \\{x \in U\ |\ x \in Y\ e\ x \not\in X \\}$
+- Definimos o complementar de X em relação a Y como o conjunto $\mathrm Y\ \setminus X\ =\ \\{x \in U\ |\ x \in Y\ e\ x \not\in X \\}$
+    - Deve-se ter atenção na ordem. Se lê complemetar de X em relação a Y, mas usa-se a notação  $\mathrm Y\ \setminus X\$.
 
 ## Definição de Complementar de um conjunto
 - Sejam:
