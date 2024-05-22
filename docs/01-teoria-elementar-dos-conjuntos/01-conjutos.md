@@ -1,15 +1,15 @@
 # Teoria Elementar dos Conjuntos
 ## Conjuntos
 - Números naturais: 
-    - $\calN$
+    - $\cal N$
 - Números inteiros:
-    - $Z$
+    - $\cal Z$
 - Números racionais:
-    - $Q$
+    - $\cal Q$
 - Números reais:
-    - $R$
+    - $\cal R$
 - Números complexos:
-    - $C$
+    - $\cal C$
 - Definição de conjuntos por:
     - Listagem de elementos: 
         - $X = \{1, 2, 3, 4, 5, 6\}$  
