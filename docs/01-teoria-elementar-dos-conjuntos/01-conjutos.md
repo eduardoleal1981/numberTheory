@@ -21,9 +21,7 @@
         - $X = \{ 1, 2, 3, ..., 6 \}$  
         - Python code:  
         ```python
-        X = {1, 2, 3}
-        Y = set(range(4,7))
-        Z = X.union(Y)
+        Y = set(range(1,7))
         ```
     - Indicação de regras de pertencimento para seus elementos:
         - $X = \{ x : x\ é\ um\ inteiro\ positivo\ não\ nulo\ menor\ que\ 7 \}$
