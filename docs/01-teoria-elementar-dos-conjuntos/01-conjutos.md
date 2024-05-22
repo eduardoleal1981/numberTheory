@@ -58,3 +58,14 @@
 - Sejam X e Y dois conjuntos com o mesmo universo. Dizemos que X é igual a Y caso $\mathrm X \subset Y$ e $\mathrm Y \subset X$. Neste caso escrevemos $\mathrm X = Y$.
 - X é igual a Y se e somente se estes conjuntos possuem os mesmos elementos.
 - Por definição, para demonstrar que um conjunto X é igual a um conjunto Y, devemos verificar duas inclusões: $\mathrm X \subset Y$ e $\mathrm Y \subset X$.
+
+## Como demostrar a igualdade de conjuntos?
+- $\mathrm X\ =\ \\{x\ \in \mathbb R\ \mathrm |\ x^2\ -\ 2x\ -\ 3\ =\ 0 \\}$
+- $\mathrm Y = \\{-2, 1\\}$
+- Demostre que X = Y.
+- Planejamento da demostração:
+    - Premeiro: qual a definição da igualdade?
+    - Por definição, para que X = y, deve ser válida a hipótese $\mathrm X \subset Y$ e a hipótese $\mathrm Y \subset X$.
+    - Então, dividimos a demostração em duas verificações de inclusão. As duas devem ser verdadeiras.
+    - Para verificar a inclusão, por sua vez, devemos verificar a relação de pertencimento de cada elemento do conjunto que está supostamente contido, no conjunto que supostamente deve conter o outro conjunto.
+    - Planejamento terminado.
