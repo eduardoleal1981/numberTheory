@@ -66,7 +66,7 @@
 - Planejamento da demostração:
     - Primeiro: Qual a definição da igualdade?
         - Deve-se indicar na demonstração a definição de igualdade.
-    - Por definição, para que X = y, deve ser válida a hipótese $\mathrm X \subset Y$ e a hipótese $\mathrm Y \subset X$.
+    - Por definição, para que X = Y, deve ser válida a hipótese $\mathrm X \subset Y$ e a hipótese $\mathrm Y \subset X$.
     - Então, dividimos a demostração em duas verificações de inclusão. As duas devem ser verdadeiras.
         - Para verificar a inclusão, por sua vez, devemos verificar a relação de pertencimento de cada elemento do conjunto que está supostamente contido, no conjunto que supostamente deve conter o outro conjunto.
         - Para o conjunto X, usaremos Bhaskara para, a partir da regra de formação do conjunto, identificar os elementos do conjunto.
