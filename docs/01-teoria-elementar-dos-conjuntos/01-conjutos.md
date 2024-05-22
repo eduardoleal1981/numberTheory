@@ -52,3 +52,7 @@
 ## Definição de Inclusão
 - Sejam X e Y conjuntos. 
 - Dizemos que X está contido em Y e escrevemos $\mathrm X \subset Y$, se todo elemento de X é um elemento de Y. Caso X não esteja contido em Y, escrevemos $\mathrm X \not\subset Y$.
+- Dizer que X não está contido em Y significa que existe pelo menos um elemento de X que não é elemento de Y.
+
+## Definição de Igualdade
+- Sejam X e Y dois conjuntos com o mesmo universo. Dizemos que X é igual a Y caso $\mathrm X \subset Y$ e $\mathrm Y /subset X$. Neste caso escrevemos $\mathrm X = Y$.
